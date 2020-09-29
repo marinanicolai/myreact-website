@@ -11,6 +11,7 @@ function Footer() {
         <ul className="menu">
           <li>Timeline</li>
           <li>About</li>
+          <li>Contact</li>
         </ul>
       </nav>
     </>
