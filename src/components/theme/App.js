@@ -1,6 +1,6 @@
 import React from "react";
-import "../App.css";
 import Nav from "./Nav";
+import NavLinks from "./NavLinks";
 import Footer from "./Footer";
 import Main from "./Main";
 
@@ -8,6 +8,7 @@ function App() {
   return (
     <div className="App">
       <Nav />
+      <NavLinks />
       <Main />
       <Footer />
     </div>
