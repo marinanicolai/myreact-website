@@ -1,8 +1,8 @@
 import React from "react";
-import Nav from "./Nav";
-import NavLinks from "./NavLinks";
-import Footer from "./Footer";
-import Main from "./Main";
+import Nav from "./Header/Nav";
+import NavLinks from "./Header/NavLinks";
+import Footer from "./Footer/Footer";
+import Main from "./Main/Main";
 
 function App() {
   return (
