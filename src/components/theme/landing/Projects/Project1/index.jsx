@@ -3,7 +3,11 @@ import React from "react";
 export const Project1 = () => {
   return (
     <>
-      <h1>first project</h1>
+      <span aria-label="love" role="img">
+        🏝️
+      </span>{" "}
+      <a href="#">Recipe app</a>
+      <strong>:</strong>
       <p>project discription</p>
     </>
   );
