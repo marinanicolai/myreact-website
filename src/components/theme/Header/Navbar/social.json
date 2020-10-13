@@ -1,12 +1,18 @@
 [
   {
     "id": 0,
+    "name": "Resume",
+    "link": "#",
+    "icon": "resume.svg"
+  },
+  {
+    "id": 1,
     "name": "Github",
     "link": "https://github.com/marinanicolai",
     "icon": "github.svg"
   },
   {
-    "id": 1,
+    "id": 2,
     "name": "Linkdin",
     "link": "https://www.linkedin.com/in/marina-nicolai-b627b1128/",
     "icon": "linkedin.svg"

@@ -12,6 +12,8 @@ export const Details = styled.div`
   span {
     color: #212121;
   }
+  padding-bottom: 2rem;
+  padding-left: 1rem;
 `;
 
 export const Links = styled.div`
