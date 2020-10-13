@@ -1,4 +1,4 @@
-import React, { useContext } from "react";
+import React from "react";
 import { Link } from "react";
 import NavbarLinks from "../NavbarLinks";
 import { Wrapper, Links } from "./styles";
@@ -15,7 +15,6 @@ const Navbar = () => {
               key={id}
               href={link}
               target="_blank"
-              rel="noopener"
               rel="noopener noreferrer"
               aria-label={`follow me on ${name}`}
             >

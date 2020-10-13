@@ -1,9 +1,16 @@
 import React from "react";
+import { Intro } from "../landing/Intro";
+import { Skills } from "../landing/Skills";
+import { Timeline } from "../landing/Timeline";
+import { Projects } from "../landing/Projects";
 
 function Main() {
   return (
     <>
-      <h1>This is the main section</h1>
+      <Intro />
+      <Projects />
+      <Skills />
+      <Timeline />
     </>
   );
 }

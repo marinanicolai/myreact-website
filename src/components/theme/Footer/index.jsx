@@ -20,7 +20,6 @@ function Footer() {
             key={id}
             href={link}
             target="_blank"
-            rel="noopener"
             rel="noopener noreferrer"
             aria-label={`follow me on ${name}`}
           >
