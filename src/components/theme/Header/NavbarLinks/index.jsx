@@ -7,7 +7,7 @@ function NavLinks() {
     <Wrapper>
       <AnchorLink href="#about">About</AnchorLink>
       <AnchorLink href="#projects">Projects</AnchorLink>
-      <AnchorLink href="#contact">Contact</AnchorLink>
+      <AnchorLink href="#contact">Timeline</AnchorLink>
     </Wrapper>
   );
 }
