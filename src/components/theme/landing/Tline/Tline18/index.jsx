@@ -14,7 +14,7 @@ export const Tline3 = () => {
           <a href="https://www.youracclaim.com/badges/908cc24c-ada9-4488-b1d7-717ca32f949f">
             Security +
           </a>
-          certification by CompTia{" "}
+          Certification by CompTia{" "}
         </li>
       </ul>
     </>

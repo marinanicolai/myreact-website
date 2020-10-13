@@ -8,7 +8,7 @@ export const Tline5 = () => {
       <ul>
         <li>
           {" "}
-          decided that "Computers" are what I want to do till the rest of my
+          decided that "Computers" is what I want to do till the rest of my
           life, so returned back to school, to pursue BS in Computer Science
         </li>
         <li> learn React.js</li>
