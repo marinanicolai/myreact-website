@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "name": "Github",
+    "link": "https://github.com/marinanicolai",
+    "icon": "github.svg"
+  },
+  {
+    "id": 1,
+    "name": "Linkdin",
+    "link": "https://www.linkedin.com/in/marina-nicolai-b627b1128/",
+    "icon": "linkedin.svg"
+  }
+]
