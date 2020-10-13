@@ -1,7 +1,17 @@
-import React from "react";
+import React, { useContext } from "react";
+import { Link } from "react";
+import NavbarLinks from "../NavbarLinks";
+import { Wrapper, Brand } from "./styles";
 
-function Nav() {
-  return <h3>Marina Nicolai</h3>;
-}
+const Navbar = () => {
+  return (
+    <Wrapper>
+      <div as={Link} to="/">
+        Marina Nicolai
+      </div>
+      <NavbarLinks desktop />
+    </Wrapper>
+  );
+};
 
-export default Nav;
+export default Navbar;
