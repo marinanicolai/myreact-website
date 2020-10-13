@@ -14,27 +14,13 @@ export const Tline = () => {
         <h1>Timeline</h1>
         <p>
           I enjoy keeping a personal timeline, it helps me be motivated looking
-          from where I started.
+          from where I've started.
         </p>
         <Grid>
           <Item>
             <Card>
               <Content>
-                <Tline1 />
-              </Content>
-            </Card>
-          </Item>
-          <Item>
-            <Card>
-              <Content>
-                <Tline2 />
-              </Content>
-            </Card>
-          </Item>
-          <Item>
-            <Card>
-              <Content>
-                <Tline3 />
+                <Tline5 />
               </Content>
             </Card>
           </Item>
@@ -48,7 +34,21 @@ export const Tline = () => {
           <Item>
             <Card>
               <Content>
-                <Tline5 />
+                <Tline3 />
+              </Content>
+            </Card>
+          </Item>
+          <Item>
+            <Card>
+              <Content>
+                <Tline2 />
+              </Content>
+            </Card>
+          </Item>
+          <Item>
+            <Card>
+              <Content>
+                <Tline1 />
               </Content>
             </Card>
           </Item>

@@ -25,3 +25,8 @@ export const Item = styled.div`
 export const Content = styled.div`
   padding: 1rem 0;
 `;
+
+export const Year = styled.span`
+  font-size: 2rem;
+  font-weight: bold;
+`;
