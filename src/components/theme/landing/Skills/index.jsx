@@ -1,7 +1,5 @@
 import React from "react";
-import AnchorLink from "react-anchor-link-smooth-scroll";
 import { Wrapper, SkillsWrapper, Details } from "./style";
-import { Button } from "../common/Button";
 
 export const Skills = () => {
   return (
@@ -10,12 +8,11 @@ export const Skills = () => {
         <Details>
           <h1>More about me</h1>
           <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry’s standard dummy.
+            I am a front-end developer who is striving to learn the best
+            practices of coding while being adaptive to user's needs and
+            aspiration. If I am not coding I like spending time with loved ones
+            or riding the bike in the city.
           </p>
-          <Button as={AnchorLink} href="#contact">
-            Hire me
-          </Button>
         </Details>
       </SkillsWrapper>
     </Wrapper>
